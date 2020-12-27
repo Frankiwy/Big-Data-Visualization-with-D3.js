@@ -1,4 +1,8 @@
 # BDV Lab Project 2019
+
+
+![University Logo](https://github.com/Frankiwy/Big-Data-Visualization-with-D3.js/blob/master/images/fh-ooe-logo.jpg)
+
 Submission template for the Big Data Visualization (BDV) lab project at the University of Applied Sciences Upper Austria.
 
 **Explanation:**
